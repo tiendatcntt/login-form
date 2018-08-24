@@ -1,0 +1,14 @@
+.dx-fieldset-header{
+    font-size: 25px;
+    font-weight: bold;
+}
+.dx-field-label{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.dx-field-value{
+    width: 500px; 
+    height: 20px;
+    background-color:bisque;
+}
